@@ -108,6 +108,7 @@ venv.bak/
 .mypy_cache/
 
 .idea
+
 a2/utils/datasets
 a3/data
 a4/en_es_data
